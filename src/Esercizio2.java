@@ -1,0 +1,2 @@
+public class Esercizio2 {
+}
